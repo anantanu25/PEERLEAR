@@ -1,0 +1,8 @@
+{
+  "name": "PeerLearn",
+  "description": "Student-to-student tutoring marketplace connecting college learners with verified peer tutors across campuses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
